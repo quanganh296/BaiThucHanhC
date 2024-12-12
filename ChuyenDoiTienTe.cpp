@@ -39,7 +39,7 @@ scanf("%f",&Chon);
 					break;
 	    case 5:
 					DoiTien= Chon/usd_to_vnd ;
-							printf(" %.2f vnd = %.2f UDS", Chon, DoiTien );
+							printf(" %.2f vnd = %.2f USD", Chon, DoiTien );
 				break;
 		case 6:
 							DoiTien= Chon/eur_to_vnd ;
